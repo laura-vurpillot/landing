@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bebas+Neue&family=Bungee+Shade&family=Galada&family=Jost:wght@100;200;300&family=Lato:wght@100;300;400&family=Lobster+Two&family=Rajdhani:wght@300;400;500;600&family=Rubik+Moonrocks&family=Urbanist:wght@100;200;300;400;500&display=swap');
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Bebas Neue', weight300;
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin: 0px;
+ }
+
+a {
+  font-family: Abel, weight200;
+  text-decoration: none;
+}
+
+.container h2 {
+  margin-bottom: 35px;
+}
+
+h4 {
+  margin-left: 30px;
+  font-size: 37px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}

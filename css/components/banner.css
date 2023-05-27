@@ -1,0 +1,18 @@
+.banner {
+  background-image: url('https://weezevent.com/wp-content/uploads/2019/07/27172304/organiser-un-concert-retroplanning.jpg');   
+	background-size: cover;     
+  height: 500px;
+	background-position: center;
+  padding: 80px;
+}
+
+.banner h1 {
+  color: #231709;
+  font-size: 58px;
+  font-weight: bolder;
+}
+.banner h2 {
+  color: #231709;
+  font-size: 28px;
+  opacity: 0.8;
+}
